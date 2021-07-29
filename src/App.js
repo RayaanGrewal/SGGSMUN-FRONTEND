@@ -7,7 +7,6 @@ import LetterFromPrinciple from './components/LetterFromPrinciple'
 import LetterFromSecretariat from './components/LetterFromSecretariat'
 import OrganisingCommittee from'./components/OrganisingCommittee'
 import Secretariat from'./components/Secretariat'
-import About from './components/About'
 
 
 
@@ -24,7 +23,6 @@ class App extends Component {
           <Route path="/letterfromprinciple" exact component={LetterFromPrinciple}/>
           <Route path="/letterfromsecretariat" exact component={LetterFromSecretariat}/>
           <Route path="/organisingcommittee" exact component={OrganisingCommittee}/>
-          <Route path="/about" exact component={About}/>
         </Switch>
       </div>
       </BrowserRouter>

@@ -1,6 +1,7 @@
 import React , { Component } from 'react';
 import NavigationBar from './NavigationBar'
 import CarouselComponent from './CarouselComponent'
+import {Container} from 'react-bootstrap'
 
 class Home extends Component {
   render()
@@ -9,7 +10,8 @@ class Home extends Component {
       <div>
       <NavigationBar/>
       <CarouselComponent/>
-
+      <Container fluid>
+      </Container>
       </div>
     );
   }
