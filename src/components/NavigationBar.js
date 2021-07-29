@@ -16,11 +16,11 @@ function NavigationBar(props){
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">
       <Nav className="me-auto">
-        <Nav.Link href="/">About</Nav.Link>
-        <Nav.Link href="/">Letter From Principle</Nav.Link>
-        <Nav.Link href="/">Organizing committee</Nav.Link>
-        <Nav.Link href="/">Letter from secretariat</Nav.Link>
-        <Nav.Link href="/">Secretariat</Nav.Link>
+        <Nav.Link href="/about">About</Nav.Link>
+        <Nav.Link href="/letterfromprinciple">Letter From Principle</Nav.Link>
+        <Nav.Link href="/organisingcommittee">Organizing committee</Nav.Link>
+        <Nav.Link href="/letterfromsecretariat">Letter from secretariat</Nav.Link>
+        <Nav.Link href="/secretariat">Secretariat</Nav.Link>
         <NavDropdown title="Committees" id="basic-nav-dropdown">
           <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
           <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>

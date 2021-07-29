@@ -1,6 +1,5 @@
 import React , { Component } from 'react';
 import NavigationBar from './NavigationBar'
-import CarouselComponent from './CarouselComponent'
 
 class About extends Component {
   render()
@@ -8,7 +7,6 @@ class About extends Component {
     return (
       <div>
       <NavigationBar/>
-      <CarouselComponent/>
 
       </div>
     );
