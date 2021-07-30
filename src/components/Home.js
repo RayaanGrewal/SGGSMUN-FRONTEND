@@ -7,7 +7,7 @@ class Home extends Component {
   render()
   {
     return (
-      <div className="mb-0" >
+      <div className="mb-0">
       <NavigationBar/>
       <CarouselComponent/>
 
