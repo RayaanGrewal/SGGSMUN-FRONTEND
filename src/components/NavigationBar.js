@@ -21,13 +21,13 @@ function NavigationBar(props){
         <Nav.Link href="/letterfromsecretariat">Letter from secretariat</Nav.Link>
         <Nav.Link href="/secretariat">Secretariat</Nav.Link>
         <NavDropdown title="Committees" id="basic-nav-dropdown">
-          <NavDropdown.Item href="#action/3.1">United Nations General Assembly (UNGA DISEC)
+          <NavDropdown.Item href="/unga">United Nations General Assembly (UNGA DISEC)
 </NavDropdown.Item>
-          <NavDropdown.Item href="#action/3.2">United Nations Security Council (UNSC)
+          <NavDropdown.Item href="/unsc">United Nations Security Council (UNSC)
 </NavDropdown.Item>
-          <NavDropdown.Item href="#action/3.3">United Nations Human Rights Council (UNHRC)
+          <NavDropdown.Item href="/unhrc">United Nations Human Rights Council (UNHRC)
 </NavDropdown.Item>
-<NavDropdown.Item href="#action/3.4">Economic and Social Council (ECOSOC)
+<NavDropdown.Item href="/ecosoc">Economic and Social Council (ECOSOC)
 
 </NavDropdown.Item>
 
