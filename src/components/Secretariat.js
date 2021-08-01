@@ -1,5 +1,7 @@
 import React , { Component } from 'react';
-import NavigationBar from './NavigationBar'
+import NavigationBar from './NavigationBar';
+
+
 
 class Secretariat extends Component {
   render()
@@ -8,7 +10,9 @@ class Secretariat extends Component {
       <div>
       <NavigationBar/>
 
-      </div>
+
+
+</div>
     );
   }
 }
