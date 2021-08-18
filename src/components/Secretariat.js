@@ -23,7 +23,7 @@ class Secretariat extends Component {
 An orator par excellence, school house prefect, captain of the Chandigarh zone chess team, member of the school tennis team and accomplished pianist are just some of the myriad hats he has worn with aplomb. He has contributed to society by spending time educating underprivileged children. An expressive persuasive speaker with an impeccable command of the language and a genial disposition, he has actively participated in many inter-school debates and recitations with enthusiasm and gusto.
 
 A high level of independence, meticulous organizational abilities, boundless enthusiasm, and a mature approach are his forte. He has the tendency to excel at whatever he may put his mind to. His interest and in depth knowledge of global affairs is commendable and has stood him in good stead in various MUN’s he has participated in over the past few years. Ayaan has an innate ability to lead guide and shoulder responsibility.
-
+<br/>
 We present to you, Ayaan Singh Anand, the Secretary - General of the SGGS Model United Nations Conference 2021.
       </Card.Text>
     </Card.Body>
@@ -38,7 +38,7 @@ We present to you, Ayaan Singh Anand, the Secretary - General of the SGGS Model 
 
 She has always engaged wholeheartedly into any task entrusted to her and has never shied from volunteering to take upon herself new arenas and not giving up till the work sees it’s completion to an indelible mark of job.
 
-A hardcore perfectionist with excellence in academics now choosing medicine as her future authenticates her dedication, an enthusiastic graceful gymnast, strong and skilful swimmer, happy-go-lucky personality with utmost humility and compassionate persona always makes her stand out from the crowd.
+A hardcore perfectionist with excellence in academics now choosing medicine as her future authenticates her dedication, an enthusiastic graceful gymnast, strong and skilful swimmer, happy-go-lucky personality with utmost humility and compassionate persona always makes her stand out from the crowd.<br/>
 We present to you Saanya Chhabra, the Director General of SGGS Model United Nations Conference 2021.
   </Card.Text>
 </Card.Body>
@@ -47,9 +47,10 @@ We present to you Saanya Chhabra, the Director General of SGGS Model United Nati
 <Card>
 <Card.Img variant="top" src={harshitha} height="1200"/>
 <Card.Body>
-<h1>Harshitha Pathania(Rayaan's gf)</h1>
+<h1>Harshitha Pathania</h1>
 <Card.Text>
 With her impeccable poise and unwavering hold over the workings of a conference, her presence doesn't only aid any conference, instead, it propels it to greater heights.With her unparalleled leadership skills and a knack for proficiency, she never fails to transfigure any conversation into an esoteric debate. Her love for procrastination does not stop her from being our ‘jack of all trades’. Nevertheless, beyond that exterior of absolute professionalism, lies a young woman with a mettlesome attitude. A quintessential debater,always wanting to leave an indelible mark, she is also undoubtedly the ‘devil-may-care’ girl of our group. Equipped with resilience and an unwavering desire to achieve, Her calm and reposeful persona enables her to tackle and overcome every situation. an eloquent orator with excellent communication skills, she is adored for being our very own melodramatic vivacious virtuoso.
+<br/>
 We present to you Harshitha Pathania, the Convenor of SGGS Model United Nations Conference 2021.
 </Card.Text>
 </Card.Body>
