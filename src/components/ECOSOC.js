@@ -1,7 +1,7 @@
 import React , { Component } from 'react';
 import NavigationBar from './NavigationBar';
-import ecosoc from '../assets/ecosoc.jpg';
-import {Container, Image, Card} from 'react-bootstrap'
+import ecosoc from '../assets/ecosoc.jpeg';
+import {Container, Image, Card} from 'react-bootstrap';
 
 
 class ECOSOC extends Component {

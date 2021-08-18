@@ -1,6 +1,6 @@
 import React , { Component } from 'react';
 import NavigationBar from './NavigationBar';
-import unga from '../assets/unga.jpg'
+import unga from '../assets/unga.jpeg'
 import {Container, Image, Card} from 'react-bootstrap'
 
 class UNGA extends Component {

@@ -4,7 +4,6 @@ import {Container ,NavDropdown } from 'react-bootstrap';
 import ContactModal from "./ContactModal"
 
 
-
 function NavigationBar(props){
 
 
@@ -16,10 +15,10 @@ function NavigationBar(props){
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">
       <Nav className="me-auto">
-        <Nav.Link href="/letterfromprinciple">Letter From Principle</Nav.Link>
-        <Nav.Link href="/organisingcommittee">Organizing committee</Nav.Link>
-        <Nav.Link href="/letterfromsecretariat">Letter from secretariat</Nav.Link>
+        <Nav.Link href="/letterfromprinciple">Letter From Principal</Nav.Link>
         <Nav.Link href="/secretariat">Secretariat</Nav.Link>
+        <Nav.Link href="/letterfromsecretariat">Letter from secretariat</Nav.Link>
+
         <NavDropdown title="Committees" id="basic-nav-dropdown">
           <NavDropdown.Item href="/unga">United Nations General Assembly (UNGA DISEC)
 </NavDropdown.Item>
@@ -30,7 +29,6 @@ function NavigationBar(props){
 <NavDropdown.Item href="/ecosoc">Economic and Social Council (ECOSOC)
 
 </NavDropdown.Item>
-
 
         </NavDropdown>
 

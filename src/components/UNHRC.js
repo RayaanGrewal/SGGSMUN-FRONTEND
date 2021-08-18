@@ -1,6 +1,6 @@
 import React , { Component } from 'react';
 import NavigationBar from './NavigationBar';
-import unhrc from '../assets/unhrc.jpg';
+import unhrc from '../assets/unhrc.jpeg';
 import {Container, Image, Card} from 'react-bootstrap'
 
 class UNHRC extends Component {

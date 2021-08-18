@@ -1,6 +1,6 @@
 import React , { Component } from 'react';
 import NavigationBar from './NavigationBar';
-import unsc from '../assets/unsc.jpg';
+import unsc from '../assets/unsc.jpeg';
 import {Container, Image, Card} from 'react-bootstrap';
 
 class UNSC extends Component {

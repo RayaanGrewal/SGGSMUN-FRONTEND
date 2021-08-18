@@ -1,5 +1,7 @@
 import React , { Component } from 'react';
-import NavigationBar from './NavigationBar'
+import NavigationBar from './NavigationBar';
+import lfp from '../assets/lfp.jpeg'
+import { Container, Image } from 'react-bootstrap'
 
 class LetterFromPrinciple extends Component {
   render()
@@ -7,6 +9,10 @@ class LetterFromPrinciple extends Component {
     return (
       <div>
       <NavigationBar/>
+      <Container fluid>
+            <Image src={lfp} width="100%" height="100%"/>
+
+      </Container>
 
       </div>
     );
